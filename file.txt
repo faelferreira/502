@@ -1,0 +1,7 @@
+Meu nome é {NOME}
+Minha idade é {IDADE}
+Eu estou estudando {LINGUAGEM}
+E {LINGUAGEM} é muito legal
+
+
+
